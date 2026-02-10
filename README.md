@@ -11,6 +11,8 @@ This repository contains educational content designed to help users understand h
 - [What is PHTAYA](docs/what-is-phtaya.md)
 - [Review methodology](docs/review-methodology.md)
 - [Legal and responsibility](docs/legal-and-responsibility.md)
+- [PHTAYA Login Guide](docs/phtaya-login.md)
+
 
 ### Content intent
 
